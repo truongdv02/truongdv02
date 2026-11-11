@@ -14,7 +14,7 @@
 # 🛠️ Tech Stack
 
 ### 🔎 SIEM / Monitoring
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Qradar](https://img.shields.io/badge/IBM-Qradar-005571?style=for-the-badge&logo=elastic&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logoColor=white)
 
 ### 🧰 Security Tools
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=for-the-badge&logoColor=white) ![EDR](https://img.shields.io/badge/EDR-333333?style=for-the-badge&logoColor=white)
