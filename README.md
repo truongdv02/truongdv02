@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Trường
+# 👋 Hi, I'm T-Horse02
 
 🛡️ **SOC Analyst** | Security Monitoring • Incident Response • Threat Detection
 
